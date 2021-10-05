@@ -1,3 +1,9 @@
 [submodule "TS4900ACU"]
 	path = TS4900ACU
 	url = https://github.com/InMechaSol/TS4900ACU.git
+[submodule "WIN32ACU"]
+	path = WIN32ACU
+	url = https://github.com/InMechaSol/WIN32ACU.git
+[submodule "UbuntuACU"]
+	path = UbuntuACU
+	url = https://github.com/InMechaSol/UbuntuACU.git
