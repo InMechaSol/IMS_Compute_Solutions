@@ -1,0 +1,3 @@
+[submodule "TS4900ACU"]
+	path = TS4900ACU
+	url = https://github.com/InMechaSol/TS4900ACU.git
